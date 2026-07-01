@@ -13,7 +13,7 @@ export const site = {
   valueProp:
     "Building reliable, automated test systems that catch failures before users do.",
   location: "Frisco, TX",
-  email: "sushmachiluvuri.ch@gmail.com",
+  email: "suvee1111@gmail.com",
 
   /** ▶ Play Intro modal video. Embeddable URL.
    *  Loom share link https://www.loom.com/share/<ID> becomes /embed/<ID>. */
